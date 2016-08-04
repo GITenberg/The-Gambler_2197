@@ -1,0 +1,84 @@
+_repo: The-Gambler_2197
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hogarth, C. J.
+    gutenberg_agent_id: '835'
+    url: http://www.gutenberg.org/2009/agents/835
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: "The Gambler (Russian: Игрок, Igrok) is a short novel by Fyodor Dostoyevsky\
+  \ about a young tutor in the employment of a formerly wealthy Russian general. The\
+  \ novella reflects Dostoyevsky's own addiction to roulette, which was in more ways\
+  \ than one the inspiration for the book: Dostoyevsky completed the novella under\
+  \ a strict deadline to pay off gambling debts.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2197'
+  wikidata: Q223688
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russians -- Germany -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Chance -- Fiction'
+- !lcsh 'Gambling -- Fiction'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: The Gambler
+url: http://www.gutenberg.org/ebooks/2197
+wikipedia:
+- https://fi.wikipedia.org/wiki/Pelurit
+- https://fa.wikipedia.org/wiki/%D9%82%D9%85%D8%A7%D8%B1%D8%A8%D8%A7%D8%B2_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://ru.wikisource.org/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%BA_(%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
+- https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B5%D1%86%D1%8C_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://el.wikipedia.org/wiki/%CE%9F_%CF%80%CE%B1%CE%AF%CE%BA%CF%84%CE%B7%CF%82
+- https://gl.wikipedia.org/wiki/O_xogador
+- https://sv.wikipedia.org/wiki/Spelaren
+- https://az.wikipedia.org/wiki/Qumarbaz_(roman)
+- https://ja.wikipedia.org/wiki/%E8%B3%AD%E5%8D%9A%E8%80%85_(%E3%83%89%E3%82%B9%E3%83%88%E3%82%A8%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC)
+- https://pt.wikipedia.org/wiki/O_Jogador_(livro)
+- https://es.wikipedia.org/wiki/El_jugador_(Fi%C3%B3dor_Dostoievski)
+- https://en.wikipedia.org/wiki/The_Gambler_(novel)
+- https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Juc%C4%83torul
+- https://fr.wikipedia.org/wiki/Le_Joueur_(roman)
+- https://zh.wikipedia.org/wiki/%E8%B3%AD%E5%BE%92_(%E5%B0%8F%E8%AA%AA)
+- https://tk.wikipedia.org/wiki/Humarbaz
+- https://pl.wikipedia.org/wiki/Gracz_(powie%C5%9B%C4%87_Fiodora_Dostojewskiego)
+- https://da.wikipedia.org/wiki/Spilleren
+- https://simple.wikipedia.org/wiki/The_Gambler_(novel)
+- https://kw.wikipedia.org/wiki/An_Gwarier
+- https://ru.wikiquote.org/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%BA_(%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
+- https://nl.wikipedia.org/wiki/De_speler_(roman)
+- https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%86%D0%BA%D0%B0%D1%80_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A8%E1%83%94_(%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%98)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%B1_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://lb.wikipedia.org/wiki/De_Spiller
+- https://eu.wikipedia.org/wiki/Jokalaria_(eleberria)
+- https://de.wikipedia.org/wiki/Der_Spieler
+- https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%86%D0%BA%D0%B0%D1%80_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://hy.wikipedia.org/wiki/%D4%BD%D5%A1%D5%B2%D5%A1%D5%B4%D5%B8%D5%AC%D5%A8
+- https://it.wikipedia.org/wiki/Il_giocatore_(Dostoevskij)
+- https://vep.wikipedia.org/wiki/V%C3%A4ndai_(roman)
+- https://no.wikipedia.org/wiki/Spilleren
+- https://hr.wikipedia.org/wiki/Kockar
+- https://be-tarask.wikipedia.org/wiki/%D0%93%D1%83%D0%BB%D0%B5%D1%86_(%D1%80%D0%B0%D0%BC%D0%B0%D0%BD)
+- https://ca.wikipedia.org/wiki/El_jugador
+- https://tr.wikipedia.org/wiki/Kumarbaz_(roman)
+- https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%94%D7%9E%D7%A8
