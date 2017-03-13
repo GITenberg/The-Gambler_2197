@@ -1,10 +1,13 @@
 _repo: The-Gambler_2197
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hogarth, C. J.
     gutenberg_agent_id: '835'
     url: http://www.gutenberg.org/2009/agents/835
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -24,6 +27,8 @@ description: "The Gambler (Russian: Игрок, Igrok) is a short novel by Fyodo
   \ novella reflects Dostoyevsky's own addiction to roulette, which was in more ways\
   \ than one the inspiration for the book: Dostoyevsky completed the novella under\
   \ a strict deadline to pay off gambling debts.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2197#The-Gambler
 gutenberg_issued: '2000-05-01'
 gutenberg_type: Text
 identifiers:
